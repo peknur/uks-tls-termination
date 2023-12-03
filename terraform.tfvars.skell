@@ -1,0 +1,9 @@
+cloudflare_api_token = ""
+kubernetes_namespace = ""
+kubernetes_config    = ""
+app_domains = [
+  {
+    domain : "example.com",
+    hostname : "myapp.example.com"
+  }
+]
